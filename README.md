@@ -1,55 +1,73 @@
 <div align="center">
-  <h1>Olá, eu sou o João Victor! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-  <h3>Desenvolvedor Full Stack</h3>
-</div>
-
-<br>
-
-
-<div align="center">
-  <h3>🛠️ Tecnologias & Ferramentas</h3>
-  
-  <img align="center" alt="João-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="João-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="João-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="João-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  
-  <img align="center" alt="João-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="João-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="João-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-  <img align="center" alt="João-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="João-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Jo%C3%A3o+Victor!;Desenvolvedor+Full+Stack;Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <h3>📊 Minhas Estatísticas</h3>
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorOAS&show_icons=true&theme=radical"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorOAS&layout=compact&theme=radical"/>
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVictorOAS&theme=radical" alt="JoaoVictorOAS" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3> Um pouco sobre mim</h3>
+  
+  <p>
+    <code>👨‍💻 Stack Principal</code> : <b>React, Node.js, Python</b><br>
+    <code>🔭 Trabalhando em</code> : <b>Projetos Full Stack e Automações</b><br>
+    <code>🌱 Aprendendo</code> : <b>Arquitetura de Software & Cloud</b><br>
+    <code>💬 Pergunte sobre</code> : <b>JavaScript, Web Dev e Tech</b>
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🚀 Arsenal Tecnológico</h3>
+  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <br>
-  
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorOAS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </p>
-  
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorOAS&layout=compact&theme=dracula"/>
-  </p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
 </div>
 
 <br>
 
 <div align="center">
-  <h3>📫 Entre em contato</h3>
-  <p align="center">
-    <a href="https://github.com/JoaoVictorOAS" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-    </a> 
-    <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <h3>🤝 Vamos conectar?</h3>
+  
+  <p>
+    <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/SEU_USUARIO">
     </a>
-    <a href="LINK_DO_SEU_LINKEDIN" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <a href="mailto:SEU_EMAIL" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU_EMAIL">
     </a>
   </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=JoaoVictorOAS&label=Profile%20Views&color=blueviolet&style=flat" alt="JoaoVictorOAS" />
 </div>
