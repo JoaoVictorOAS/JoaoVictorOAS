@@ -10,6 +10,9 @@
   <table border="0">
     <tr>
       <td>
+        <img heigth="80em"; width="150px" src="https://st-th-1.byteark.com/assets.punpro.com/contents/i71035/1688354951959-lofi-girl.jpg">
+      </td>
+      <td>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorOAS&layout=compact&theme=radical"/>
       </td>
     </tr>
