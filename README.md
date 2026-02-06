@@ -3,19 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Jo%C3%A3o+Victor!;Desenvolvedor+Full+Stack;Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
   </a>
 </div>
-
 <br>
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVictorOAS&theme=radical" alt="JoaoVictorOAS" />
-</div>
-
 <br>
-
 <div align="center">
   <h3> Um pouco sobre mim</h3>
-  
   <p>
     <code>👨‍💻 Stack Principal</code> : <b>React, Node.js, Python</b><br>
     <code>🔭 Trabalhando em</code> : <b>Projetos Full Stack e Automações</b><br>
@@ -23,12 +14,9 @@
     <code>💬 Pergunte sobre</code> : <b>JavaScript, Web Dev e Tech</b>
   </p>
 </div>
-
 <br>
-
 <div align="center">
   <h3>🚀 Arsenal Tecnológico</h3>
-  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -42,11 +30,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
 </div>
-
 <br>
-
 <div align="center">
   <h3>🤝 Vamos conectar?</h3>
   
