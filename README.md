@@ -6,20 +6,6 @@
 <br>
 <br>
 
-<table align="center" border="0">
-  <tr>
-    <td valign="top" width="50%">
-      <div align="center">
-        <h3> Um pouco sobre mim</h3>
-        <p>
-          <code>👨‍💻 Stack Principal</code> : <b>React, Node.js, Python</b><br>
-          <code>🔭 Trabalhando em</code> : <b>Projetos Full Stack e Automações</b><br>
-          <code>🌱 Aprendendo</code> : <b>Arquitetura de Software & Cloud</b><br>
-          <code>💬 Pergunte sobre</code> : <b>JavaScript, Web Dev e Tech</b>
-        </p>
-      </div>
-    </td>
-    <td valign="top" width="50%">
 <div align="center">
         <h3>🚀 Arsenal Tecnológico</h3>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -54,9 +40,6 @@
         <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
       </div>
-    </td>
-  </tr>
-</table>
 
 <br>
 
