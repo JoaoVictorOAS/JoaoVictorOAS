@@ -22,8 +22,9 @@
   <p>
     <code>🎓 Formação</code> : <b>Estudante de Engenharia de Software na UFR</b><br>
     <code>💻 Stack Principal</code> : <b>PHP, Java, React e TypeScript</b><br>
-    <code>🔭 Trabalhando em</code> : <b>Desenvolvimento Full Stack e AI Code Reviewer</b><br>
-    <code>🚀 Projetos Atuais</code> : <b> RedesNeurais </b><br>
+    <code>🏢 Trabalhando em</code> : <b>Desenvolvimento Full Stack (Mosaico & Sogg Software)</b><br>
+    <code>🚧 Projetos em Andamento</code> : <b><a href="https://acheinaufr.vercel.app/">Achei na UFR</a>, <a href="https://projeto-saude-ufr.vercel.app/">Acompanhamento gestacional</a> e <a href="https://voidsoftware.org/">Void Software</a> <i>(WIP / Labs)</i></b><br>
+    <code>🧠 Foco Atual</code> : <b>AI Code Reviewer e Redes Neurais</b><br>
     <code>💬 Pergunte sobre</code> : <b>APIs RESTful, Banco de Dados, Qualidade de Código e IA</b>
   </p>
 </div>
