@@ -12,8 +12,8 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Ofensiva_Atual-15_Dias-20232a?style=for-the-badge&logo=github&logoColor=white" alt="Ofensiva Atual" />
-  <img src="https://img.shields.io/badge/Maior_Ofensiva-42_Dias-000000?style=for-the-badge&logo=github&logoColor=white" alt="Maior Ofensiva" />
+  <img src="https://img.shields.io/badge/Ofensiva_Atual-7_Dias-20232a?style=for-the-badge&logo=github&logoColor=white" alt="Ofensiva Atual" />
+  <img src="https://img.shields.io/badge/Maior_Ofensiva-15_Dias-000000?style=for-the-badge&logo=github&logoColor=white" alt="Maior Ofensiva" />
 </div>
 <br>
 
