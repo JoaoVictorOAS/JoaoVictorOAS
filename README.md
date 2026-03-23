@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7B62A3&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Jo%C3%A3o+Victor!;Desenvolvedor+Full+Stack;Welcome!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7B62A3&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Jo%C3%A3o+Victor!;Desenvolvedor+Full+Stack;Go+%7C+PHP+%7C+Java+%7C+React;Welcome!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,7 +21,7 @@
   <h3>👨‍💻 Um pouco sobre mim</h3>
   <p>
     <code>🎓 Formação</code> : <b>Estudante de Engenharia de Software na UFR</b><br>
-    <code>💻 Stack Principal</code> : <b>PHP, Java, React e TypeScript</b><br>
+    <code>💻 Stack Principal</code> : <b>Go, PHP, Java, React e TypeScript</b><br>
     <code>🏢 Trabalhando em</code> : <b>Desenvolvimento Full Stack (Mosaico & Sogg Software)</b><br>
     <code>🚧 Projetos em Andamento</code> : <b><a href="https://acheinaufr.vercel.app/">Achei na UFR</a>, <a href="https://projeto-saude-ufr.vercel.app/">Acompanhamento gestacional</a> e <a href="https://voidsoftware.org/">Void Software</a> <i>(WIP / Labs)</i></b><br>
     <code>🧠 Foco Atual</code> : <b>AI Code Reviewer e Redes Neurais</b><br>
@@ -31,6 +31,7 @@
 <br>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
