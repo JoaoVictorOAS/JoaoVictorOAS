@@ -25,7 +25,7 @@
     <code>💻 Stack Principal</code> : <b>Go, PHP, Java, React e TypeScript</b><br>
     <code>🏢 Trabalhando em</code> : <b>Desenvolvimento Full Stack (Mosaico & Sogg Software)</b><br>
     <code>🚧 Projetos em Andamento</code> : <b><a href="https://acheinaufr.vercel.app/">Achei na UFR</a>, <a href="https://projeto-saude-ufr.vercel.app/">Acompanhamento gestacional</a> e <a href="https://voidsoftware.org/">Void Software</a> <i>(WIP / Labs)</i></b><br>
-    <code>🧠 Foco Atual</code> : <b>AI Code Reviewer e Redes Neurais</b><br>
+    <code>🧠 Foco Atual</code> : <b>IA, Otimização e IoT para Indústrias e Negócios</b><br>
     <code>💬 Pergunte sobre</code> : <b>APIs RESTful, Banco de Dados, Qualidade de Código e IA</b>
   </p>
 </div>
