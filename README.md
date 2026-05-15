@@ -1,84 +1,125 @@
+<!-- Snake animation — gerada via GitHub Actions -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoVictorOAS/JoaoVictorOAS/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoVictorOAS/JoaoVictorOAS/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/JoaoVictorOAS/JoaoVictorOAS/output/github-snake.svg" />
+  </picture>
+</div>
+
+<!-- Typing Header -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7B62A3&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Jo%C3%A3o+Victor!;Desenvolvedor+Full+Stack;Go+%7C+PHP+%7C+Java+%7C+React;Welcome!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=7B62A3&center=true&vCenter=true&width=500&lines=Ola%2C+eu+sou+Joao+Victor;Full+Stack+Developer;Go+%7C+PHP+%7C+Java+%7C+React+%7C+TS;Builder+of+real+things" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="70" alt="Gengar Animado">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="70" alt="Gengar Animado">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="70" alt="Gengar Animado">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="70" alt="Gengar Animado">
-</div>
 <br>
 
+<!-- Pokemons -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Ofensiva_Atual-7_Dias-20232a?style=for-the-badge&logo=github&logoColor=white" alt="Ofensiva Atual" />
-  <img src="https://img.shields.io/badge/Maior_Ofensiva-15_Dias-000000?style=for-the-badge&logo=github&logoColor=white" alt="Maior Ofensiva" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="60" title="Gengar"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" width="60" title="Charmander"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif" width="60" title="Mudkip"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/151.gif" width="60" title="Mew"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif" width="60" title="Rayquaza"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/248.gif" width="60" title="Tyranitar"/>
 </div>
+
 <br>
 
-<div align="center">
-  <h3>👨‍💻 Um pouco sobre mim</h3>
-  <p>
-    <code>🎓 Formação</code> : <b>Estudante de Engenharia de Software na UFR</b><br>
-    <code>💻 Stack Principal</code> : <b>Go, PHP, Java, React e TypeScript</b><br>
-    <code>🏢 Trabalhando em</code> : <b>Desenvolvimento Full Stack (Mosaico & Sogg Software)</b><br>
-    <code>🚧 Projetos em Andamento</code> : <b><a href="https://acheinaufr.vercel.app/">Achei na UFR</a>, <a href="https://projeto-saude-ufr.vercel.app/">Acompanhamento gestacional</a> e <a href="https://voidsoftware.org/">Void Software</a> <i>(WIP / Labs)</i></b><br>
-    <code>🧠 Foco Atual</code> : <b>IA, Otimização e IoT para Indústrias e Negócios</b><br>
-    <code>💬 Pergunte sobre</code> : <b>APIs RESTful, Banco de Dados, Qualidade de Código e IA</b>
-  </p>
-</div>
-<br>
+---
+
+## Sobre mim
+
+```ts
+const joaoVictor = {
+  role:        "Full Stack Developer",
+  university:  "Engenharia de Software @ UFR",
+  location:    "Rondonopolis, MT — Brasil",
+  stack:       ["Go", "PHP", "Java", "TypeScript", "React", "Node.js"],
+  databases:   ["PostgreSQL", "MySQL", "Supabase"],
+  infra:       ["Docker", "Google Cloud", "Linux", "CI/CD"],
+  working_on:  ["SOGG (SaaS Fleet Tracking)", "Mosaico Platform", "Void Software"],
+  focus:       "IA aplicada + IoT para industrias e negocios",
+  ask_me:      ["APIs RESTful", "DDD", "Qualidade de Codigo", "LLMs"],
+};
+```
+
+---
+
+## Projetos Ativos
+
+| Projeto | Descricao | Status |
+|---|---|---|
+| [SOGG](https://github.com/JoaoVictorOAS) | SaaS de rastreamento de frotas — PHP + Adianti | Ativo |
+| [Mosaico](https://github.com/JoaoVictorOAS) | Plataforma de gestao educacional | Ativo |
+| [Void Software](https://voidsoftware.org/) | Labs, conteudo dev e servicos digitais | Ativo |
+
+---
+
+## Stack & Ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Adianti-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <img src="https://img.shields.io/badge/PL/SQL-F40404?style=for-the-badge&logo=oracle&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://skillicons.dev/icons?i=go,php,java,ts,js,python,cpp&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=docker,gcp,git,linux,arduino&theme=dark" />
 </div>
-<br>
+
+---
+
+## GitHub Stats
+
+
 
 <div align="center">
-  <h3>📫 Contatos</h3>
+  <img src="https://streak-stats.demolab.com/?user=JoaoVictorOAS&theme=tokyonight&hide_border=true&background=0d1117&ring=7B62A3&fire=ff6b35&currStreakLabel=7B62A3" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoVictorOAS&theme=tokyo-night&bg_color=0d1117&color=7B62A3&line=7B62A3&point=ff6b35&area=true&hide_border=true" />
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoaoVictorOAS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+</div>
+
+---
+
+## Contatos
+
+<div align="center">
   <a href="https://www.linkedin.com/in/joao-victor-dos-santos-518289256/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:dev.joaovictor.oas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/JoaoVictorOAS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40"/>
   </a>
 </div>
+
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoaoVictorOAS&label=Profile%20Views&color=blueviolet&style=flat" alt="JoaoVictorOAS" />
+  <img src="https://komarev.com/ghpvc/?username=JoaoVictorOAS&label=Profile+Views&color=7B62A3&style=for-the-badge" />
+</div>
+
+<br>
+
+<div align="center">
+  <i>"GEENNGAr!!!"</i>
 </div>
