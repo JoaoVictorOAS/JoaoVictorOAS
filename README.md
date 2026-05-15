@@ -3,6 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7B62A3&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Jo%C3%A3o+Victor!;Desenvolvedor+Full+Stack;Go+%7C+PHP+%7C+Java+%7C+React;Welcome!" alt="Typing SVG" />
   </a>
 </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoVictorOAS/JoaoVictorOAS/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoVictorOAS/JoaoVictorOAS/output/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/JoaoVictorOAS/JoaoVictorOAS/output/github-snake.svg" />
+  </picture>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="70" alt="Gengar Animado">
@@ -15,6 +22,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Ofensiva_Atual-7_Dias-20232a?style=for-the-badge&logo=github&logoColor=white" alt="Ofensiva Atual" />
   <img src="https://img.shields.io/badge/Maior_Ofensiva-15_Dias-000000?style=for-the-badge&logo=github&logoColor=white" alt="Maior Ofensiva" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=JoaoVictorOAS&theme=tokyonight&hide_border=true&background=0d1117&ring=7B62A3&fire=ff6b35&currStreakLabel=7B62A3" alt="GitHub Streak Stats" />
 </div>
 <br>
 
