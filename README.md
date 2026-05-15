@@ -13,6 +13,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=7B62A3&center=true&vCenter=true&width=500&lines=Ola%2C+eu+sou+Joao+Victor;Full+Stack+Developer;Go+%7C+PHP+%7C+Java+%7C+React+%7C+TS;Builder+of+real+things" alt="Typing SVG" />
   </a>
 </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoVictorOAS/JoaoVictorOAS/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoVictorOAS/JoaoVictorOAS/output/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/JoaoVictorOAS/JoaoVictorOAS/output/github-snake.svg" />
+  </picture>
+</div>
 
 <br>
 
