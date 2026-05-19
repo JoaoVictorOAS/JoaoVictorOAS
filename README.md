@@ -46,17 +46,6 @@ const joaoVictor = {
 };
 ```
 
----
-
-## Projetos Ativos
-
-| Projeto | Descricao | Status |
-|---|---|---|
-| [SOGG](https://github.com/JoaoVictorOAS) | SaaS de rastreamento de frotas — PHP + Adianti | Ativo |
-| [Mosaico](https://github.com/JoaoVictorOAS) | Plataforma de gestao educacional | Ativo |
-| [Void Software](https://voidsoftware.org/) | Labs, conteudo dev e servicos digitais | Ativo |
-
----
 
 ## Stack & Ferramentas
 
@@ -64,7 +53,7 @@ const joaoVictor = {
 <p align="left"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48"/></p>
 <p align="left"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48"/></p>
 <p align="left"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="48" height="48"/></p>
----
+
 
 ## GitHub Stats
 
@@ -74,16 +63,12 @@ const joaoVictor = {
   <img src="https://streak-stats.demolab.com/?user=JoaoVictorOAS&theme=tokyonight&hide_border=true&background=0d1117&ring=7B62A3&fire=ff6b35&currStreakLabel=7B62A3" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoVictorOAS&theme=tokyo-night&bg_color=0d1117&color=7B62A3&line=7B62A3&point=ff6b35&area=true&hide_border=true" />
-</div>
-
 ---
 
 ## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaoVictorOAS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JoaoVictorOAS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2&column=4"/>
 </div>
 
 ---
