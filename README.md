@@ -1,4 +1,9 @@
-<!-- Snake animation — gerada via GitHub Actions -->
+<!-- Header Capsule -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B62A3&height=120&section=header&fontSize=40&fontColor=ffffff&fontAlignY=38&descAlignY=58&descSize=18&animation=fadeIn" />
+</div>
+
+<!-- Snake -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoVictorOAS/JoaoVictorOAS/output/github-snake-dark.svg" />
@@ -7,23 +12,13 @@
   </picture>
 </div>
 
-<!-- Typing Header -->
+<!-- Typing + Gengar -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="55" title="Gengar"/>
+  &nbsp;
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=7B62A3&center=true&vCenter=true&width=500&lines=Ola%2C+eu+sou+Joao+Victor;Full+Stack+Developer;Go+%7C+PHP+%7C+Java+%7C+React+%7C+TS;Builder+of+real+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=7B62A3&center=true&vCenter=true&width=480&lines=Ola%2C+eu+sou+Joao+Victor;Full+Stack+Developer;Go+%7C+PHP+%7C+Java+%7C+React+%7C+TS;Builder+of+real+things" alt="Typing SVG" />
   </a>
-</div>
-
-<br>
-
-<!-- Pokemons -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="60" title="Gengar"/>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" width="60" title="Charmander"/>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif" width="60" title="Mudkip"/>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/151.gif" width="60" title="Mew"/>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif" width="60" title="Rayquaza"/>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/248.gif" width="60" title="Tyranitar"/>
 </div>
 
 <br>
@@ -32,44 +27,48 @@
 
 ## Sobre mim
 
-```ts
-const joaoVictor = {
-  role:        "Full Stack Developer",
-  university:  "Engenharia de Software @ UFR",
-  location:    "Rondonopolis, MT — Brasil",
-  stack:       ["Go", "PHP", "Java", "TypeScript", "React", "Node.js"],
-  databases:   ["PostgreSQL", "MySQL", "Supabase"],
-  infra:       ["Docker", "Google Cloud", "Linux", "CI/CD"],
-  working_on:  ["SOGG (SaaS Fleet Tracking)", "Mosaico Platform", "Void Software"],
-  focus:       "IA aplicada + IoT para industrias e negocios",
-  ask_me:      ["APIs RESTful", "DDD", "Qualidade de Codigo", "LLMs"],
-};
-```
+<div align="center">
 
+![Role](https://img.shields.io/badge/Full%20Stack%20Developer-7B62A3?style=for-the-badge&logoColor=white)
+![University](https://img.shields.io/badge/Eng.%20Software%20%40%20UFR-1a1a2e?style=for-the-badge&logoColor=white)
+![Location](https://img.shields.io/badge/Rondon%C3%B3polis%2C%20MT-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-## Stack & Ferramentas
+![Focus](https://img.shields.io/badge/IA%20Aplicada%20%2B%20IoT-ff6b35?style=for-the-badge&logoColor=white)
+![Open To](https://img.shields.io/badge/Aberto%20a%20oportunidades-238636?style=for-the-badge&logoColor=white)
 
-<p align="left"><img src="https://skillicons.dev/icons?i=go&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48"/></p>
-<p align="left"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48"/></p>
-<p align="left"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48"/></p>
-<p align="left"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48"/> <img width="48" height="48" src="https://placehold.co/48x48/0d1117/0d1117.png"/> <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="48" height="48"/></p>
+![Ask Me](https://img.shields.io/badge/APIs%20RESTful-7B62A3?style=flat-square&logoColor=white)
+![Ask Me](https://img.shields.io/badge/DDD-7B62A3?style=flat-square&logoColor=white)
+![Ask Me](https://img.shields.io/badge/Qualidade%20de%20C%C3%B3digo-7B62A3?style=flat-square&logoColor=white)
+![Ask Me](https://img.shields.io/badge/LLMs-7B62A3?style=flat-square&logoColor=white)
 
+</div>
+
+---
 
 ## GitHub Stats
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-three-peach-94.vercel.app/api?username=JoaoVictorOAS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B62A3&icon_color=7B62A3&text_color=ffffff&count_private=true"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats-three-peach-94.vercel.app/api/top-langs/?username=JoaoVictorOAS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B62A3&text_color=ffffff&count_private=true" />
+</div>
 
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=JoaoVictorOAS&theme=tokyonight&hide_border=true&background=0d1117&ring=7B62A3&fire=ff6b35&currStreakLabel=7B62A3" />
 </div>
 
----
-
-## Trophies
+<br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaoVictorOAS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2&column=4"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoVictorOAS&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7B62A3&line=7B62A3&point=ff6b35" />
 </div>
+
+<br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -97,6 +96,7 @@ const joaoVictor = {
 
 <br>
 
+<!-- Footer Capsule -->
 <div align="center">
-  <i>"GENNGARR!!!"</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B62A3&height=100&section=footer" />
 </div>
