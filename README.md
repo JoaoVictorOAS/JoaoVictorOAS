@@ -3,6 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B62A3&height=120&section=header&fontSize=40&fontColor=ffffff&fontAlignY=38&descAlignY=58&descSize=18&animation=fadeIn" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="55" title="Gengar"/>
+  &nbsp;
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=7B62A3&center=true&vCenter=true&width=480&lines=Ola%2C+eu+sou+Joao+Victor;Full+Stack+Developer;Go+%7C+PHP+%7C+Java+%7C+React+%7C+TS;Builder+of+real+things" alt="Typing SVG" />
+  </a>
+</div>
+
 <!-- Snake -->
 <div align="center">
   <picture>
@@ -13,15 +21,7 @@
 </div>
 
 <!-- Typing + Gengar -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="55" title="Gengar"/>
-  &nbsp;
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=7B62A3&center=true&vCenter=true&width=480&lines=Ola%2C+eu+sou+Joao+Victor;Full+Stack+Developer;Go+%7C+PHP+%7C+Java+%7C+React+%7C+TS;Builder+of+real+things" alt="Typing SVG" />
-  </a>
-</div>
 
-<br>
 
 ---
 
