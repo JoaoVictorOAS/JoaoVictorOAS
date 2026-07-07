@@ -47,12 +47,6 @@
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-three-peach-94.vercel.app/api?username=JoaoVictorOAS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B62A3&icon_color=7B62A3&text_color=ffffff&count_private=true"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats-three-peach-94.vercel.app/api/top-langs/?username=JoaoVictorOAS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B62A3&text_color=ffffff&count_private=true" />
-</div>
-
 <br>
 
 <div align="center">
