@@ -35,6 +35,7 @@
 
 ![Focus](https://img.shields.io/badge/IA%20Aplicada%20%2B%20IoT-ff6b35?style=for-the-badge&logoColor=white)
 ![Open To](https://img.shields.io/badge/Aberto%20a%20oportunidades-238636?style=for-the-badge&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-ff6b35?style=for-the-badge)](https://joaovictoroas.github.io/Portfolio/)
 
 ![Ask Me](https://img.shields.io/badge/APIs%20RESTful-7B62A3?style=flat-square&logoColor=white)
 ![Ask Me](https://img.shields.io/badge/DDD-7B62A3?style=flat-square&logoColor=white)
