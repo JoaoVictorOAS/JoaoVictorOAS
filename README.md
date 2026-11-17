@@ -55,13 +55,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoVictorOAS&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7B62A3&line=7B62A3&point=ff6b35" />
-</div>
-
-<br>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
